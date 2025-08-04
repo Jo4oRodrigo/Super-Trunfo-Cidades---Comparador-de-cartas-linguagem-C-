@@ -124,17 +124,6 @@ Resultado: Carta 1 (São Paulo) venceu!
 └── README.md               # Instruções e documentação
 ```
 
----
-
-## ✨ Possíveis melhorias
-
-- Cadastro automático com cartas fixas
-- Suporte a múltiplas rodadas
-- Interface gráfica com bibliotecas C (ex: SDL)
-- Sistema de pontuação por rodadas
-
----
-
 ## 📄 Licença
 
 Este projeto é open-source e pode ser utilizado para fins educacionais e pessoais. Sinta-se livre para copiar, modificar e distribuir.
